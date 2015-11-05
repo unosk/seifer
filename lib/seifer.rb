@@ -1,4 +1,4 @@
-require "seifer/version"
+require 'seifer/version'
 
 module Seifer
   # Your code goes here...
